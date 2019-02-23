@@ -1,0 +1,22 @@
+.container-top {
+    background-color: aqua;
+    margin: 0px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.left-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.red-text {
+    color: red;
+}

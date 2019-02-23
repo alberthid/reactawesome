@@ -1,0 +1,38 @@
+.container-pastevent {
+    width: 400px;
+    min-height: 150px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+
+.top-component {
+    border-bottom: 1px solid black;
+}
+
+.middle-component {
+    border-bottom: 1px solid black;
+}
+
+.button-component {
+    display: flex;
+    width: inherit;
+    height: 60px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.button-view {
+    display: flex;
+    width: 60px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    border-radius: 8px;
+    border: 1px solid red;
+}
+
+.link-data {
+    font-family: 'OpenSans';
+    font-size: 12px;
+}
